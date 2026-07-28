@@ -1,5 +1,7 @@
 # 🖥️ DevWorkstation
 
+> Professional Windows Development Workstation Setup for DevOps, Cloud and Full Stack Development.
+
 ## 📌 Description
 
 DevWorkstation est le dépôt qui documente entièrement mon environnement de développement.
@@ -33,7 +35,7 @@ Il contient :
 
 ## 📁 Structure
 
-```
+```text
 DevWorkstation
 ├── configs
 ├── docs
@@ -51,5 +53,6 @@ Construire un environnement de développement professionnel pour le développeme
 
 ## 👨‍💻 Auteur
 
-Mohamed Said El Moubachir
+**Mohamed Said El Moubachir**
+
 Étudiant Ingénieur en Génie Informatique
